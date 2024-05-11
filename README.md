@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="media/media.css">
+    <title>Garden of words</title>
+</head>
+<body>
+    <header>
+        <div class="color-green">
+            
+        </div>
+       
+        <div class="img-div">
+            <img class="menina01" src="imagens/menina olhando p chao.webp" alt="">
+
+            <h2 class="text-menina-one">
+                MOVIE <br>
+                RECOMENDATIONS <br>
+                STORYES BY <br>
+                MR RUBW
+            </h2>
+        </div>
+        <div>
+            <h1 class="title01">
+                Garden of <br> Words
+            </h1>
+        </div>
+        <div>
+            <h2 class="title02">
+                K O T O N O H A_ N O_ N I W A
+            </h2>
+        </div>
+        <div class="barra-branca">
+            
+        </div>
+        <div class="div-japa">
+            <p class="paragrafo-japa">
+                とても愛していますよ、女の子
+            </p>
+
+         
+        </div>
+        <div class="paragrafo-div">
+            <p class="paragrafo">
+                Directed and by mr rubw <br>
+                animatedd by mr rubw
+            </p>
+        </div>
+    </header>
+
+    <main>
+        <div>
+            <h1 class="seg-title">
+                Movie Synopsis
+            </h1>
+        </div>
+        <div class="text-solo">
+<br>
+<br>
+            <hr>
+            The Garden of Words (Japanese: 言の葉の庭, Hepburn: Kotonoha no Niwa) is a 2013 Japanese anime film written, directed, and edited by Makoto Shinkai, animated by CoMix Wave Films, and distributed by Toho. It stars Miyu Irino and Kana Hanazawa and features music by Daisuke Kashiwa instead of Tenmon, who composed the music for many of Shinkai's previous films. The theme song, "Rain", was originally written and performed by Senri Oe in 1988, but was remade for the film and sung by Motohiro Hata. The film was turned into a manga, with illustrations by Midori Motohashi, and later novelized by Shinkai, both in the same year as the film.
+            The film focuses on Takao Akizuki, a 15-year-old aspiring shoemaker, and Yukari Yukino, a mysterious 27-year-old woman he always encounters at the Shinjuku Gyoen National Garden on rainy mornings. While Takao skips morning classes to design shoes, Yukari avoids work due to personal problems in her professional life.
+            <br>
+            <br>
+            <hr>
+            <div class="div-nova-img">
+            <img class="nova-img" src="imagens/In the rain.gif" alt="">
+            </div>
+
+        </div>
+        <div class="text-img">
+            <img class="img-choro" src="imagens/chorando.jpeg" width="500px" alt="">
+        </div>
+
+        <div class="div-information">
+            <p class="paragrafo-information">
+                AIRED : MAY 31 2013 <br>
+                GENRES : DRAMA, ROMANCE, SLICE OF LIFE <br>
+                DURATION: 45MIN. <br>
+                RATING: PG-13
+            </p>
+        </div>
+      
+        <div class="footer-img">
+
+        </div>
+
+        <div class="div-img1">
+        <img class="img1" src="imagens/chão.jpeg" alt="">
+        </div>
+        <div  class="div-img2">
+            <img class="img2" src="imagens/conversa.jpeg" alt="">
+        </div> 
+
+        <div class="div-img3">
+        <img class="img3" src="imagens/download.jpeg" alt="">
+        </div>
+    </main>
+   
+
+</body>
+</html>
