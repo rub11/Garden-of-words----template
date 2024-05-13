@@ -99,28 +99,28 @@ top: 370px;
     margin-left: 2px;
     }
     .img1{
-        width: 150px;
-        height: 220px;
+        width: 120px;
+        height: 200px;
     }
     .div-img2{
         position: absolute;
         top: 950px;
-       left: 32%;
+       left: 26%;
     }
     .img2{
-        width: 150px;
-        height: 220px;
+        width: 120px;
+        height: 200px;
     }
     .div-img3{
-        display: none;
+      
         position: absolute;
         top: 950px;
-       left: 63%;
+       left: 52%;
     }
     .img3{
-        display: none;
-        width: 140px;
-        height: 220px;
+       
+        width: 120px;
+        height: 200px;
 
     }
 .text-menina-one{
