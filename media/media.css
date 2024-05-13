@@ -1,4 +1,4 @@
-@media screen and (max-width: 760px){
+@media screen and (max-width: 740px){
     .menina01{
         position: absolute;
         left: 31px;
@@ -69,7 +69,7 @@
 }
 .nova-img{
     display: inline-block;
-width: 240px;
+width: 200px;
 position: absolute;
 left: 49.5%;
 top: 370px;
