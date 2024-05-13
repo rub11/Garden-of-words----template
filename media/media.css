@@ -112,9 +112,10 @@ top: 370px;
         height: 220px;
     }
     .div-img3{
+        display: none;
         position: absolute;
         top: 950px;
-       left: 64%;
+       left: 63%;
     }
     .img3{
         width: 140px;
